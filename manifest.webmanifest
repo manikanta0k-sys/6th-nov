@@ -1,0 +1,18 @@
+{
+  "name": "Binomo Multi-Asset Candle Monitor V5.1",
+  "short_name": "Binomo V5.1",
+  "description": "Screenshot historical 1m and last two 1m bar directional view, live 1m/2m future unavailable without continuously verified screen capture.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#08111f",
+  "background_color": "#08111f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
